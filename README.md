@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahan Balooei</h1>
 <h3 align="center">I am a master's student of bioinformatics</h3>
 
-- 🌱 I’m currently learning **python, data analysis**
+- 🌱 I’m currently learning **python, data analysis, bioinformatics tools**
 
 - 📫 How to reach me **mahan.balooei@studio.unibo.it**
 
