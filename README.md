@@ -1,15 +1,76 @@
-<h1 align="center">Hi 👋, I'm Mahan Balooei</h1>
-<h3 align="center">I am a master's student of bioinformatics</h3>
+# Hi, I'm Mahan Balooei 👋🧬
 
-- 🌱 I’m currently learning **python, data analysis, bioinformatics tools**
+🎓 Master's student in **Bioinformatics** at **Alma Mater Studiorum – Università di Bologna**  
+🔬 Passionate about computational biology, machine learning, and genomics  
+📍 Bologna, Italy
 
-- 📫 How to reach me **mahan.balooei@studio.unibo.it**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahan-balooei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahan-balooei" height="30" width="40" /></a>
-<a href="https://instagram.com/mahanbalooei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahanbalooei" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I work at the intersection of biology and data science — building machine learning pipelines, analyzing genomic data, and applying statistical methods to biological problems. My projects span from classical ML to structural bioinformatics and epigenomics.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**ML & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+
+**Bioinformatics**
+
+![HMMER](https://img.shields.io/badge/HMMER-3.3.2-green?style=flat)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-2.18-blue?style=flat)
+![minfi](https://img.shields.io/badge/minfi-R-blue?style=flat)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+### 🧬 [Structure-Based HMM Profiling for Kunitz-Type Protease Inhibitor Domains](https://github.com/MahanBalooei/HMM_KunitzDomain)
+Profile Hidden Markov Models comparing sequence-based vs. structure-based approaches for Kunitz domain detection. Structure-based HMM achieved peak MCC of **0.997**.  
+`Python` `HMMER` `Bioinformatics` `Structural Biology`
+
+---
+
+### 🔬 [Epigenetic Analysis: DNA Methylation Patterns (Illumina 450K)](https://github.com/MahanBalooei/epigenetic-methylation-450k)
+Differential DNA methylation analysis of CpG sites between healthy and diseased individuals using Illumina HumanMethylation450k array data.  
+`R` `Bioconductor` `minfi` `Epigenomics`
+
+---
+
+### 🍷 [Red Wine Quality Prediction](https://github.com/MahanBalooei/Wine-Quality-ML)
+ML regression pipeline comparing Linear Regression, k-NN, and Random Forest with scikit-learn pipelines and GridSearchCV. Built for an Applied Machine Learning course.  
+`Python` `scikit-learn` `Machine Learning`
+
+---
+
+## 📊 GitHub Stats
+
+![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahanBalooei&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanBalooei&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- 📧 [mahan.balooei@studio.unibo.it](mailto:mahan.balooei@studio.unibo.it)
+- 🔬 ORCID: [0009-0006-5358-0784](https://orcid.org/0009-0006-5358-0784)
+- 🏛️ Alma Mater Studiorum – Università di Bologna
