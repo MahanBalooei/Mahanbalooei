@@ -2,7 +2,7 @@
 
 🎓 Master's student in **Bioinformatics** at **Alma Mater Studiorum – Università di Bologna**  
 🔬 Passionate about computational biology, machine learning, and genomics  
-📍 Bologna, Italy
+📍 Modena, Italy
 
 ---
 
