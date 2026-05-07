@@ -44,21 +44,21 @@ I work at the intersection of biology and data science — building machine lear
 
 ## 📌 Featured Projects
 
-### 🧬 [Structure-Based HMM Profiling for Kunitz-Type Protease Inhibitor Domains](https://github.com/MahanBalooei/HMM_KunitzDomain)
-Profile Hidden Markov Models comparing sequence-based vs. structure-based approaches for Kunitz domain detection. Structure-based HMM achieved peak MCC of **0.997**.  
-`Python` `HMMER` `Bioinformatics` `Structural Biology`
+### 🧬 [ESM-2-Based Signal Peptide Prediction](https://github.com/MahanBalooei/eukaryotic-signal-peptide-prediction)
+Protein sequence-function prediction pipeline for eukaryotic signal peptide detection using UniProtKB/Swiss-Prot annotations, MMseqs2 redundancy reduction, classical biological baselines, SVMs with biochemical features, and CNN-BiLSTM models with ESM-2 protein language model embeddings.  
+`Python` `PyTorch` `ESM-2` `MMseqs2` `Protein Language Models` `Bioinformatics`
+
+---
+
+### 🧪 [Structure-Based HMM Profiling for Kunitz-Type Protease Inhibitor Domains](https://github.com/MahanBalooei/HMM_KunitzDomain)
+Protein domain annotation workflow using profile Hidden Markov Models, HMMER, and MMseqs2 to compare sequence-based and structure-informed approaches for Kunitz domain detection. Structure-based HMM achieved peak MCC of **0.997**.  
+`Python` `HMMER` `MMseqs2` `Protein Domains` `Structural Bioinformatics`
 
 ---
 
 ### 🔬 [Epigenetic Analysis: DNA Methylation Patterns (Illumina 450K)](https://github.com/MahanBalooei/epigenetic-methylation-450k)
-Differential DNA methylation analysis of CpG sites between healthy and diseased individuals using Illumina HumanMethylation450k array data.  
+Differential DNA methylation analysis of CpG sites between healthy and diseased individuals using Illumina HumanMethylation450k array data, including preprocessing, normalization, PCA-based quality assessment, and differential methylation analysis.  
 `R` `Bioconductor` `minfi` `Epigenomics`
-
----
-
-### 🍷 [Red Wine Quality Prediction](https://github.com/MahanBalooei/Wine-Quality-ML)
-ML regression pipeline comparing Linear Regression, k-NN, and Random Forest with scikit-learn pipelines and GridSearchCV. Built for an Applied Machine Learning course.  
-`Python` `scikit-learn` `Machine Learning`
 
 ---
 
