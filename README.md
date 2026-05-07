@@ -1,14 +1,16 @@
 # Hi, I'm Mahan Balooei 👋🧬
 
 🎓 Master's student in **Bioinformatics** at **Alma Mater Studiorum – Università di Bologna**  
-🔬 Passionate about computational biology, machine learning, and genomics  
+🔬 Focused on machine learning for biological sequences, protein language models, and computational biology  
 📍 Modena, Italy
 
 ---
 
 ## 🧠 About Me
 
-I work at the intersection of biology and data science — building machine learning pipelines, analyzing genomic data, and applying statistical methods to biological problems. My projects span from classical ML to structural bioinformatics and epigenomics.
+I am an MSc Bioinformatics student at the University of Bologna, focusing on protein sequence modelling, protein language models, and ML-based sequence-function prediction.
+
+My current work includes ESM-2-based protein sequence classification, HMMER/MMseqs2 workflows for protein domain annotation, and computational biology pipelines. I am especially interested in applying machine learning to protein function prediction, protein representation learning, and generative protein design.
 
 ---
 
