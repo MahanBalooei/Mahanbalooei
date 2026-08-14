@@ -1,78 +1,54 @@
-# Hi, I'm Mahan Balooei 👋🧬
+# Mahan Balooei
 
-🎓 Master's student in **Bioinformatics** at **Alma Mater Studiorum – Università di Bologna**  
-🔬 Focused on machine learning for biological sequences, protein language models, and computational biology  
-📍 Modena, Italy
+**MSc Bioinformatics Student, University of Bologna**
+Modena, Italy
 
----
-
-## 🧠 About Me
-
-I am an MSc Bioinformatics student at the University of Bologna, focusing on protein sequence modelling, protein language models, and ML-based sequence-function prediction.
-
-My current work includes ESM-2-based protein sequence classification, HMMER/MMseqs2 workflows for protein domain annotation, and computational biology pipelines. I am especially interested in applying machine learning to protein function prediction, protein representation learning, and generative protein design.
+[Website](https://mahanbalooei.github.io) · [CV](https://mahanbalooei.github.io/files/CV_Mahan_Balooei.pdf) · [LinkedIn](https://www.linkedin.com/in/mahan-balooei/) · [ORCID](https://orcid.org/0009-0006-5358-0784) · [mahan.balooei@studio.unibo.it](mailto:mahan.balooei@studio.unibo.it)
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Languages**
+MSc Bioinformatics student at the University of Bologna with a background in Medical Laboratory Sciences, focused on computational protein biology, protein language models, and machine-learning-based protein sequence analysis. Experienced with ESM-2 representations, sequence-function prediction, and HMMER/MMseqs2 workflows, building reproducible machine-learning pipelines. Interested in developing learning-based methods for protein sequence, structure, function, and molecular interactions.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+Currently seeking a research or PhD position, with flexibility regarding start date.
 
-**ML & Data Science**
+## Research Interests
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+- Protein language models and representation learning
+- Protein sequence-structure-function modelling
+- Protein-protein and protein-peptide interaction modelling
+- Generative and structure-aware protein design
+- Remote homology detection and functional annotation
 
-**Bioinformatics**
+## Publication
 
-![HMMER](https://img.shields.io/badge/HMMER-3.3.2-green?style=flat)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-2.18-blue?style=flat)
-![minfi](https://img.shields.io/badge/minfi-R-blue?style=flat)
+Farmani, S., Dehghanbanadaki, N., **Balooei, M.** (equal-contributing author), Mehralitabar, H., Sabaghian, H., & Naderi-Manesh, H. (2025). Mechanism-based targeting of lactate dehydrogenase tetramerization process through natural derived compounds: A survey of molecular docking, molecular dynamics, and QSAR analysis. *Computers in Biology and Medicine*, 197, 111000. [DOI](https://doi.org/10.1016/j.compbiomed.2025.111000)
 
-**Tools**
+## Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**[Protein Language Model-Based Signal Peptide Prediction](https://github.com/MahanBalooei/eukaryotic-signal-peptide-prediction)**
+End-to-end protein sequence modelling pipeline for eukaryotic signal-peptide prediction, comparing classical statistical methods, SVMs, CNN-BiLSTM, and ESM-2 embeddings. F1 = 0.962, MCC = 0.957 with the ESM-2-based model.
+`Python` `PyTorch` `ESM-2` `MMseqs2` `scikit-learn`
 
----
+**[Structure-Informed HMM Profiling for Kunitz-Type Protease Inhibitor Domains](https://github.com/MahanBalooei/HMM_KunitzDomain)**
+Protein domain annotation workflow comparing profile HMMs (HMMER) and sequence-similarity search (MMseqs2) for Kunitz/BPTI-type domain detection. MCC = 0.997 (profile-HMM) vs. 0.991 (sequence-similarity).
+`HMMER` `MMseqs2` `Python` `Bash`
 
-## 📌 Featured Projects
+**[Computational Epigenomics Analysis of DNA Methylation (Illumina 450K)](https://github.com/MahanBalooei/epigenetic-methylation-450k)**
+R/Bioconductor workflow for differential methylation analysis, including QC, normalization, PCA-based batch-effect assessment, and DMR detection.
+`R` `Bioconductor` `minfi`
 
-### 🧬 [ESM-2-Based Signal Peptide Prediction](https://github.com/MahanBalooei/eukaryotic-signal-peptide-prediction)
-Protein sequence-function prediction pipeline for eukaryotic signal peptide detection using UniProtKB/Swiss-Prot annotations, MMseqs2 redundancy reduction, classical biological baselines, SVMs with biochemical features, and CNN-BiLSTM models with ESM-2 protein language model embeddings.  
-`Python` `PyTorch` `ESM-2` `MMseqs2` `Protein Language Models` `Bioinformatics`
+**[Chest X-Ray Pneumonia Detection via Transfer Learning](https://github.com/MahanBalooei/chest-xray-pneumonia-detection)**
+Benchmarked ResNet50, EfficientNetB0, and DenseNet-121 XRV for pneumonia classification under class imbalance, with Grad-CAM-based interpretability. DenseNet-121 XRV achieved the strongest performance under a maximum-MCC threshold strategy.
+`PyTorch` `TensorFlow` `Grad-CAM`
 
----
+## Skills
 
-### 🧪 [Structure-Based HMM Profiling for Kunitz-Type Protease Inhibitor Domains](https://github.com/MahanBalooei/HMM_KunitzDomain)
-Protein domain annotation workflow using profile Hidden Markov Models, HMMER, and MMseqs2 to compare sequence-based and structure-informed approaches for Kunitz domain detection. Structure-based HMM achieved peak MCC of **0.997**.  
-`Python` `HMMER` `MMseqs2` `Protein Domains` `Structural Bioinformatics`
+**Protein Bioinformatics & Sequence Analysis:** ESM-2 embeddings, protein representation learning, signal peptide prediction, sequence-function prediction, protein-domain annotation, HMMER, MMseqs2, BLAST, Clustal, UniProt, PDB
 
----
+**Machine Learning & Deep Learning:** PyTorch, scikit-learn, TensorFlow, SVMs, CNN-BiLSTM, transfer learning, representation learning, Grad-CAM-based interpretability
 
-### 🔬 [Epigenetic Analysis: DNA Methylation Patterns (Illumina 450K)](https://github.com/MahanBalooei/epigenetic-methylation-450k)
-Differential DNA methylation analysis of CpG sites between healthy and diseased individuals using Illumina HumanMethylation450k array data, including preprocessing, normalization, PCA-based quality assessment, and differential methylation analysis.  
-`R` `Bioconductor` `minfi` `Epigenomics`
+**Functional Genomics & Epigenomics:** DNA methylation analysis (Illumina 450K, minfi), DMR detection, PCA-based batch-effect assessment, R/Bioconductor
 
----
-
-## 📊 GitHub Stats
-
-![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahanBalooei&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanBalooei&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📫 Contact
-
-- 📧 [mahan.balooei@studio.unibo.it](mailto:mahan.balooei@studio.unibo.it)
-- 🔬 ORCID: [0009-0006-5358-0784](https://orcid.org/0009-0006-5358-0784)
-- 🏛️ Alma Mater Studiorum – Università di Bologna
+**Reproducible Workflows & Tools:** Python, R, Bash/Linux, SQL, Git/GitHub, Docker, HPC/Slurm, Jupyter Notebooks, conda
